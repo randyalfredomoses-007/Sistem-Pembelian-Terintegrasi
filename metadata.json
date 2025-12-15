@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Pembelian Terintegrasi",
+  "description": "Aplikasi ERP ringan untuk manajemen alur pembelian (SPP, SOP, LPB, Keuangan) berdasarkan flowchart sistem pembelian.",
+  "requestFramePermissions": []
+}
